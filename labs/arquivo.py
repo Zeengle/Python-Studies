@@ -1,0 +1,1 @@
+palavras = ["Apple", "apple", "aPple", "appLe", "Apple!", "Eduardo"]
